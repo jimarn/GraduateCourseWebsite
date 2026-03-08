@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Paper } from '../data/papers';
+import { Paper } from '../data/papers_en';
 import './PaperCard.css';
 
 interface PaperCardProps {

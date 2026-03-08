@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/components/categorylist.tsx","./src/components/courseoverview.tsx","./src/components/header.tsx","./src/components/papercard.tsx","./src/data/papers.ts"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/categorylist.tsx","./src/components/courseoverview.tsx","./src/components/header.tsx","./src/components/papercard.tsx","./src/data/papers_en.ts","./src/data/papers_ko.ts"],"version":"5.9.3"}

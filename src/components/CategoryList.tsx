@@ -1,9 +1,15 @@
 import React, { useState } from 'react';
-import { courseData } from '../data/papers';
+import { courseData as courseDataEn } from '../data/papers_en';
+import { courseData as courseDataKo } from '../data/papers_ko';
 import { PaperCard } from './PaperCard';
 import './CategoryList.css';
 
-export const CategoryList: React.FC = () => {
+interface CategoryListProps {
+    language: 'en' | 'ko';
+}
+
+export const CategoryList: React.FC<CategoryListProps> = ({ language }) => {
+    const courseData = language === 'en' ? courseDataEn : courseDataKo;
     const [activeTab, setActiveTab] = useState(courseData[0].id);
 
     const activeCategory = courseData.find(c => c.id === activeTab);
@@ -28,7 +34,7 @@ export const CategoryList: React.FC = () => {
                     <div className="CategoryContent-inner" key={activeCategory.id}>
                         <div className="CategoryContent-header">
                             <h2>{activeCategory.title}</h2>
-                            <div className="CategoryContent-badge">{activeCategory.papers.length} Papers</div>
+                            <div className="CategoryContent-badge">{activeCategory.papers.length} {language === 'ko' ? '논문 리스트' : 'Papers'}</div>
                         </div>
 
                         <div className="PaperList">
