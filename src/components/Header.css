@@ -2,33 +2,69 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(255, 255, 255, 0.85);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    /* Vibrant modern gradient */
+    background: var(--gradient-primary);
+    /* Glassmorphism */
+    background: linear-gradient(135deg, rgba(30, 58, 138, 0.9) 0%, rgba(59, 130, 246, 0.9) 100%);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
     padding: 1.5rem 2rem;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: var(--shadow-md);
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: white;
 }
 
 .Header-title {
-    font-family: 'Inter', system-ui, sans-serif;
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #2563eb, #3b82f6, #0ea5e9);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
     letter-spacing: -0.5px;
+    color: white;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .Header-subtitle {
-    font-family: 'Inter', system-ui, sans-serif;
     margin: 0;
-    font-size: 0.9rem;
-    color: #64748b;
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.85);
     font-weight: 500;
+    margin-top: 0.2rem;
+}
+
+/* Glassmorphic Language Toggle */
+.LanguageToggle {
+    display: flex;
+    gap: 0.4rem;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 0.3rem;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+}
+
+.LanguageToggle button {
+    background: transparent;
+    border: none;
+    color: rgba(255, 255, 255, 0.8);
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.LanguageToggle button:hover {
+    color: white;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.LanguageToggle button.active {
+    background: white;
+    color: var(--color-primary-dark);
+    box-shadow: var(--shadow-sm);
+    transform: scale(1.02);
 }
