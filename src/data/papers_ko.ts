@@ -19,25 +19,25 @@ export const courseData: Category[] = [
             {
                 title: "Scan accuracy of wireless intraoral scanners while digitizing a combined scan body-healing abutment system",
                 citation: "Mühlemann S, Joda T, Brägger U. Scan accuracy of wireless intraoral scanners while digitizing a combined scan body-healing abutment system. Journal of Dentistry. 2024.",
-                summary: "This study evaluated the trueness and precision of digitizing a combined scan body-healing abutment system using wired and wireless intraoral scanners. It found that while wireless scanners performed equally or better in certain planes, they showed a slight tendency to tilt mesiobuccally during implant scanning.",
+                summary: "**주요 발견 및 핵심 요약:** 유선 및 무선 구강스캐너를 이용하여 힐링 어버트먼트와 스캔 바디가 결합된 시스템을 스캔할 때의 진실성과 정밀도를 평가했습니다. 무선 스캐너가 유선 스캐너와 대등하거나 특정 평면에서는 오히려 더 높은 정밀도를 보였으나, 임플란트 스캔 시 근심협측으로 미세하게 기울어지는 경향성을 확인했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 임상 현장에서 무선 스캐너 도입이 가속화되는 가운데, 하드웨어(유/무선) 차이가 데이터 왜곡 패턴에 미치는 영향을 분석하여 대학원생들이 스캐너 기기 자체의 특성을 변수로 삼는 연구를 기획하는 데 좋은 기준점이 됩니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39419370/"
             },
             {
                 title: "Accuracy of Complete-Arch Scans Obtained by Intraoral Scanner and Smartphone Three-Dimensional Scanning Applications With Different Smartphone Position Setups",
                 citation: "Wang Y, Li J, Zhang S. Accuracy of Complete-Arch Scans Obtained by Intraoral Scanner and Smartphone Three-Dimensional Scanning Applications With Different Smartphone Position Setups. Cureus. 2024.",
-                summary: "This paper compares the 3D and linear accuracy of complete-arch impressions using conventional intraoral scanners and smartphone-based photogrammetry scanning applications. It confirmed that smartphone applications can achieve clinically meaningful scan accuracy depending on the capture angle, such as 30°, 45°, or 90°.",
+                summary: "**주요 발견 및 핵심 요약:** 기존의 전용 구강스캐너와 스마트폰 기반의 3D 스캐닝 애플리케이션(Photogrammetry 방식)을 활용한 전악 인상의 정확도를 입체적(3D) 및 선형적으로 비교 분석했습니다. 촬영 각도(30°, 45°, 90° 등)에 따라 스마트폰 앱을 통한 스캔 정확도가 임상적으로 유의미한 수준까지 도달할 수 있음을 확인했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 값비싼 전용 스캐너 없이도 모바일 기기와 AI 애플리케이션을 접목하는 초저비용 디지털 워크플로우라는 획기적인 주제를 던져주어, 학생들의 혁신적인 후속 연구 아이디어를 자극합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39077296/"
             },
             {
                 title: "Trueness evaluation of three intraoral scanners for the recording of maximal intercuspal position",
                 citation: "Fang J, Li Y, Chen X. Trueness evaluation of three intraoral scanners for the recording of maximal intercuspal position. Journal of Advanced Prosthodontics. 2024.",
-                summary: "The trueness of recording the maximal intercuspal position (MIP) using three different intraoral scanners (Trios 3, Carestream 3600, Aoralscan 3) was compared to traditional facebow transfer and articulator methods. The research proved that under standardized protocols, digital methods offer equivalent occlusal registration accuracy to analog techniques.",
+                summary: "**주요 발견 및 핵심 요약:** Trios 3, Carestream 3600, Aoralscan 3 등 세 가지 구강스캐너를 사용하여 최대 교합위(Maximal Intercuspal Position, MIP)를 기록할 때의 진실성을 전통적인 페이스보우 트랜스퍼 및 교합기 방식과 비교했습니다. 표준화된 스캐닝 프로토콜 하에서는 디지털 방식이 아날로그 방식과 동등한 수준의 교합 채득 정확도를 보임을 입증했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 단일 지대치 캡처를 넘어 상하악 악간 관계(교합)를 디지털로 기록하는 메커니즘을 다루므로, 전악 수복 및 교합 재구성 관련 연구 제안서를 작성할 때 필수적인 근거 자료가 됩니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38597082/"
             },
             {
                 title: "Influence of intraoral scanner and finish line location on the fabrication trueness and margin quality of additively manufactured laminate veneers",
                 citation: "Revilla-León M, Gómez-Polo M, Barmak AB. Influence of intraoral scanner and finish line location on the fabrication trueness and margin quality of additively manufactured laminate veneers. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "This study assesses how the type of intraoral scanner and the location of the laminate veneer finish line (supragingival vs. subgingival) affect the trueness and marginal fit of final 3D-printed restorations. Trueness was found to be the lowest at subgingival margins regardless of the scanner, with detailed fit deviations varying by the scanner model used.",
+                summary: "**주요 발견 및 핵심 요약:** 라미네이트 베니어 변연(finish line)의 위치(치은 연상 vs 연하)와 구강스캐너의 종류가 최종 3D 프린팅 수복물의 진실성 및 변연 적합도에 미치는 영향을 평가했습니다. 스캐너의 기종과 무관하게 치은 연하 마진에서 진실성이 가장 낮게 나타났으며, 기종에 따라 세부적인 적합도 편차가 존재했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 최소 침습 수복물(베니어) 제작 시 구강 내 해부학적 한계(치은)가 광학 스캔의 한계와 어떻게 맞물리는지 보여주어, 심미 보철 스캐닝 프로토콜을 주제로 한 연구에 통찰력을 제공합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/37978007/"
             }
         ]
@@ -49,25 +49,25 @@ export const courseData: Category[] = [
             {
                 title: "Accuracy of intraoral scanners in maxillary multiple restorations: An in vitro study",
                 citation: "Lin WS, Chou JC, Chuang SF. Accuracy of intraoral scanners in maxillary multiple restorations: An in vitro study. Journal of Dental Sciences. 2024.",
-                summary: "This paper compares the accuracy of two intraoral scanners (Trios 3, Virtuo Vivo) with different data acquisition methods across various maxillary restoration scenarios, including single crowns, 3-unit bridges, and complete edentulism. It highlights that while local differences were minimal, multi-unit sections like bridges showed significant trueness deviations based on the image capture method.",
+                summary: "**주요 발견 및 핵심 요약:** 단일 크라운, 3-unit 브릿지, 완전 무치악 등 다양한 상악 수복 시나리오에서 서로 다른 데이터 획득 방식을 가진 두 스캐너(Trios 3, Virtuo Vivo)의 정확도를 비교했습니다. 국소 부위에서는 두 기기의 진실성 차이가 미미했으나, 브릿지와 같은 다수치 수복 구간에서는 이미지 캡처 방식에 따라 결과값의 유의미한 차이가 발생했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 임상 적응증(수복물의 크기와 범위)에 따라 최적의 성능을 발휘하는 하드웨어 기술(공초점 현미경 등)이 다를 수 있음을 시사하여, 기기 비교 논문을 작성할 때 변인 통제의 중요성을 알려줍니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39807255/"
             },
             {
                 title: "Evaluating the influence of palate scanning on the accuracy of complete-arch digital impressions",
                 citation: "Schmalzl J, Kispélyi B, Hermann P. Evaluating the influence of palate scanning on the accuracy of complete-arch digital impressions. Journal of Dentistry. 2024.",
-                summary: "The study evaluated how including the palate in the scan path affects the overall arch data accuracy, particularly in preventing arch distortion during complete-arch digital impressions. The results confirmed that including the palate significantly improves the trueness of complete-arch scans.",
+                summary: "**주요 발견 및 핵심 요약:** 전악 디지털 인상 채득 시, 구개부(Palate)를 포함하여 스캔하는 것이 전체 악궁 데이터의 정확도(특히 아치 변형 방지)에 미치는 영향을 평가했습니다. 구개부를 스캔 경로에 포함시킬 경우 전악 스캔의 진실성이 유의미하게 향상됨을 확인했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 구강 내의 움직이지 않는 구조물(구개 추벽 등)을 스티칭(stitching)의 레퍼런스로 활용하는 소프트웨어 알고리즘의 원리를 보여주며, 새로운 스캔 랜드마크를 발굴하는 연구에 직결됩니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38648874/"
             },
             {
                 title: "Influence of operator experience on the complete-arch accuracy and time-based efficiency of three intraoral scanners",
                 citation: "Chen CY, Lee CH, Wu YH. Influence of operator experience on the complete-arch accuracy and time-based efficiency of three intraoral scanners. Journal of Dental Sciences. 2024.",
-                summary: "Investigating the impact of operator experience on scan accuracy and image rendering time using three intraoral scanners, this research found no statistically significant difference in trueness between experienced and inexperienced operators. However, the device's software rendering capabilities greatly influenced time efficiency.",
+                summary: "**주요 발견 및 핵심 요약:** 최신 구강스캐너 3종을 대상으로 작업자의 숙련도가 전악 스캔의 정확도 및 이미지 렌더링 시간에 미치는 영향을 조사했습니다. 흥미롭게도 최신 스캐너 환경에서는 숙련자와 비숙련자 간의 진실성 차이가 통계적으로 유의미하지 않았으며, 기기의 소프트웨어 렌더링 능력이 시간 효율성에 더 큰 영향을 미쳤습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** AI와 소프트웨어의 발전이 '작업자 의존성(Operator dependency)'을 어느 정도까지 상쇄할 수 있는지에 대한 중요한 단서를 제공하여 임상 워크플로우 효율성 연구에 영감을 줍니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39873045/"
             },
             {
                 title: "Digital Impressions Versus Conventional Impressions In Prosthodontics: A Review Of Literature",
                 citation: "Alghamdi A, Al-Qarni F. Digital Impressions Versus Conventional Impressions In Prosthodontics: A Review Of Literature. Quest Journals. 2025.",
-                summary: "This comprehensive review compares the performance of digital and conventional impressions. It focuses on patient acceptance, such as reduced gag reflex and discomfort, as well as the dentist's workflow efficiency, including partial rescan features.",
+                summary: "**주요 발견 및 핵심 요약:** 환자의 수용도(구역 반사, 불편감 감소)와 치과의사의 작업 효율성(부분 재스캔 기능 등) 측면에서 디지털 인상과 전통 인상의 성능 및 조건을 비교한 종합 리뷰입니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 단순히 수치적인 정확도(µm)를 넘어 임상 조건(환자의 협조도, 체어타임)이 최종 스캔 결과물의 퀄리티에 미치는 인체공학적·심리적 변수를 연구 제안서에 포함시키는 방법을 배울 수 있습니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/?term=Digital+Impressions+Versus+Conventional+Impressions+In+Prosthodontics"
             }
         ]
@@ -79,25 +79,25 @@ export const courseData: Category[] = [
             {
                 title: "The effect of different scanning protocols on precision and trueness of intraoral scanning: A pilot trial",
                 citation: "Sjögren P, Lindholm Y, Al-Bitar K. The effect of different scanning protocols on precision and trueness of intraoral scanning: A pilot trial. Journal of Clinical and Experimental Dentistry. 2024.",
-                summary: "This pilot test evaluated four different scanning paths (ZIGZAG, ROCK, OBP, OWBP) and their impact on scan accuracy. It concluded that specific manufacturer-recommended patterns minimized image stitching errors and provided trueness closest to the reference model.",
+                summary: "**주요 발견 및 핵심 요약:** ZIGZAG, ROCK, OBP, OWBP 등 4가지 서로 다른 스캔 경로(프로토콜)가 스캔 정확도에 미치는 영향을 파일럿 테스트했습니다. 제조사에서 권장하는 특정 패턴(OWBP 등)이 이미지 스티칭 오류를 최소화하여 기준 모형에 가장 근접한 진실성을 나타냈습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 학생들은 이 논문을 통해 다양한 스캔 전략(경로)을 디자인하고 이를 통계적으로 검증하는 인비트로(in-vitro) 실험 방법론을 구체적으로 학습할 수 있습니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39544207/"
             },
             {
                 title: "Digital integration in dental education: A novel self-directed learning model using intraoral scanners for tooth preparation training",
                 citation: "Liu C, Zhang H, Wang X. Digital integration in dental education: A novel self-directed learning model using intraoral scanners for tooth preparation training. Journal of Dental Sciences. 2024.",
-                summary: "Analyzing a self-directed learning model for dental students, this study demonstrated that immediate 3D feedback from intraoral scanners significantly improves practical tooth preparation skills and reduces operator anxiety.",
+                summary: "**주요 발견 및 핵심 요약:** 구강스캐너를 활용한 자기 주도 학습 모델이 치과대학생들의 지대치 형성 능력을 어떻게 향상시키는지 분석했습니다. 스캐너의 즉각적인 3D 피드백이 작업자의 실무 기술(prep 정확도)을 유의미하게 상승시키고 불안감을 감소시키는 데 기여했음을 증명했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 디지털 치의학 기기가 단순한 '도구'를 넘어 임상가의 기술을 교정하는 '교육 보조 시스템'으로 작동할 수 있음을 보여주어, 덴탈 에듀테크 관련 연구를 기획하는 데 유용합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39873029/"
             },
             {
                 title: "Accuracy of Digital Intraoral Scans Three-dimensional Surface Analysis Compared with Plaster Models Dental Measurement in Mixed Dentition",
                 citation: "Nelwan SC, Setyowati D, Nugraha AP. Accuracy of Digital Intraoral Scans Three-dimensional Surface Analysis Compared with Plaster Models Dental Measurement in Mixed Dentition. International Journal of Clinical Pediatric Dentistry. 2024.",
-                summary: "This study compared the accuracy of intraoral scanners against traditional plaster model measurements using Moyer's analysis in mixed dentition with irregular alignment. It verified that digital scanning strategies achieve clinically acceptable accuracy even under complex surface conditions.",
+                summary: "**주요 발견 및 핵심 요약:** 치열이 불규칙한 혼합 치열기 환경에서 작업자가 구강스캐너를 사용할 때와 전통적 석고 모형을 측정할 때의 정확도를 Moyer's analysis로 비교했습니다. 복잡한 표면 조건에서도 디지털 스캔 전략이 치아 계측에 임상적으로 수용 가능한 정확도를 달성함을 확인했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 언더컷이 심하고 타액 조절이 어려운 특수 환자군(소아, 교정 환자 등)을 대상으로 스캐닝 난이도를 극복하기 위한 작업자 기술 및 전략 연구에 적합합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39867119/"
             },
             {
                 title: "Effect of tooth color on the accuracy of intraoral complete arch scanning under different light conditions using a zirconia restoration model",
                 citation: "Kim J, Lee S, Park C. Effect of tooth color on the accuracy of intraoral complete arch scanning under different light conditions using a zirconia restoration model. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "Through multivariate analysis, this research explored how various ambient lighting conditions and restoration colors affect intraoral scanner data acquisition accuracy. The findings proved that the interaction between specific lighting environments and tooth color can induce image stitching errors.",
+                summary: "**주요 발견 및 핵심 요약:** 다양한 주변 조명 조건(체어 라이트, 자연광, 무광 등)과 수복물의 색상(크로마, 명도)이 구강 스캐너의 데이터 획득 정확도에 미치는 영향을 다변량 분석했습니다. 특정 조명 환경과 치아 색상의 상호작용이 스티칭 오류를 유발할 수 있음을 입증했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 작업자의 손기술(동선)뿐만 아니라, 체어사이드의 환경(조도)을 통제하는 것도 매우 중요한 '오퍼레이팅 스킬'임을 인지시켜 다각적인 실험 설계 능력을 배양합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/37923645/"
             }
         ]
@@ -109,25 +109,25 @@ export const courseData: Category[] = [
             {
                 title: "Photogrammetry Versus Intraoral Scanning in Complete-Arch Digital Implant Impression: A Systematic Review and Meta-Analysis",
                 citation: "Gómez-Polo M, Ortega R, Gómez-Polo C. Photogrammetry Versus Intraoral Scanning in Complete-Arch Digital Implant Impression: A Systematic Review and Meta-Analysis. The International Journal of Oral & Maxillofacial Implants. 2024.",
-                summary: "A meta-analysis comparing the accuracy of conventional intraoral scanners with stereophotogrammetry (SPG) for complete-arch implant impressions. The research confirmed that SPG systems are statistically far superior in reducing linear and angular deviations for multiple implants.",
+                summary: "**주요 발견 및 핵심 요약:** 전악 임플란트 인상에서 기존의 구강스캐너(IOS)와 입체사진측량술(Photogrammetry, SPG) 장비의 정확도를 비교한 최신 메타 분석입니다. SPG 시스템이 다수 임플란트의 선형 및 각도 편차를 줄이는 데 구강스캐너보다 통계적으로 훨씬 우수하고 신뢰성 높은 결과를 냄을 확인했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 전악 무치악 디지털 워크플로우의 한계를 극복하기 위해 기존 IOS 기술에서 벗어나 Photogrammetry라는 최신 혁신 장비로 연구의 초점을 확장할 수 있는 탄탄한 근거를 제공합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/40481748/"
             },
             {
                 title: "Accuracy of intraoral optical scan versus stereophotogrammetry for complete-arch digital implant impression: An in vitro study",
                 citation: "Di Fiore A, Meneghello R, Graiff L. Accuracy of intraoral optical scan versus stereophotogrammetry for complete-arch digital implant impression: An in vitro study. Journal of Prosthodontic Research. 2024.",
-                summary: "Measuring the 3D and angular deviations of optical scanners versus SPG equipment on a complete-arch implant model, this in-vitro study found that SPG showed consistent repeatability. In contrast, optical scanners frequently exhibited extreme deviations exceeding passive fit tolerances.",
+                summary: "**주요 발견 및 핵심 요약:** 시험관(in-vitro) 환경에서 전악 임플란트 모델을 대상으로 광학 IOS와 SPG 장비의 3차원 및 각도 편차를 측정한 결과, 광학 스캐너의 경우 극단적인 편차(수동적 적합 허용치 초과)가 빈번하게 발생하는 반면 SPG는 일관된 반복 정밀도를 보였습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 임플란트 보철물에서 가장 중요한 '수동적 적합(Passive fit)' 달성 여부를 3D 편차 값과 결합하여 설명하므로, 보철학의 고전적 가치와 디지털 기술을 융합하는 훌륭한 연구 사례입니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/37574278/"
             },
             {
                 title: "Complete-arch accuracy of seven intraoral scanners measured by the virtual-fit method",
                 citation: "Vecsei B, Joós-Kovács G, Borbély J. Complete-arch accuracy of seven intraoral scanners measured by the virtual-fit method. Journal of Dentistry. 2024.",
-                summary: "This paper evaluates complete-arch data from seven commercial intraoral scanners using a 'Virtual-fit' method. It simulated how adjusting the internal cement gap in CAD software can compensate for fit deviations caused by distorted complete-arch stitched data.",
+                summary: "**주요 발견 및 핵심 요약:** 7종의 상용 구강스캐너를 사용하여 획득한 전악 데이터를 'Virtual-fit' 방식으로 평가했습니다. 스티칭으로 인해 왜곡된 전악 데이터에 대해 소프트웨어 상에서 내부 시멘트 갭을 인위적으로 증가시킬 경우, 기기간의 적합도 편차를 어떻게 보상할 수 있는지 시뮬레이션했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 하드웨어(스캐너)가 가진 물리적 오차의 한계를 소프트웨어(CAD 디자인 단계의 시멘트 갭 설정) 파라미터 조정을 통해 극복하려는 매우 혁신적인 보철학적 해결책을 제시합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39094976/"
             },
             {
                 title: "Improving the accuracy of complete arch implant intraoral digital scans by using horizontal scan bodies with occlusal geometry",
                 citation: "Solaberrieta E, Garmendia A, Brizuela A. Improving the accuracy of complete arch implant intraoral digital scans by using horizontal scan bodies with occlusal geometry. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "The study proposes a novel technique using horizontal scan bodies with occlusal geometry instead of traditional vertical ones to improve the accuracy of complete-arch implant scans. This morphological data allows the scanner to more easily recognize and stitch the captured areas.",
+                summary: "**주요 발견 및 핵심 요약:** 전악 임플란트 스캔의 정확도를 높이기 위해, 기존의 수직형 스캔 바디 대신 교합면 형태가 부여된 수평형 확장 스캔 바디(horizontal scan bodies)를 사용하는 새로운 치과적 기법을 제안했습니다. 이를 통해 스캐너가 형태학적 데이터를 더 쉽게 인식하고 병합(stitching)할 수 있게 됩니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 제조사가 제공하는 획일화된 스캔 바디의 디자인을 직접 개량하여 구조적 혁신을 이뤄낸 실증 연구로, 치과 재료 및 기구의 디자인적 변형을 주제로 한 논문 작성에 큰 인사이트를 줍니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38395642/"
             }
         ]
@@ -139,25 +139,25 @@ export const courseData: Category[] = [
             {
                 title: "Comparative analysis of flexural strength of 3D printed and milled 4Y-TZP and 3Y-TZP zirconia",
                 citation: "Lee H, Kim S, Kwon H. Comparative analysis of flexural strength of 3D printed and milled 4Y-TZP and 3Y-TZP zirconia. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "This study compared the biaxial flexural strength of 3Y-TZP and 4Y-TZP zirconia fabricated by milling and 3D printing. It proved that 3D-printed 4Y-TZP exhibits significantly higher flexural strength, exceeding 800 MPa, making it an excellent clinical alternative.",
+                summary: "**주요 발견 및 핵심 요약:** 절삭 가공(밀링) 및 3D 프린팅으로 제작된 3Y-TZP와 4Y-TZP 지르코니아의 이축 굴곡 강도를 비교 분석했습니다. 3D 프린팅 4Y-TZP가 밀링 4Y-TZP보다 유의미하게 높은 굴곡 강도(800 MPa 초과)를 보여 임상적으로 훌륭한 대안이 될 수 있음을 구조적으로 증명했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 이트리아(Yttria) 함량비에 따른 세라믹 소재의 역학적 특성 변화를 3D 프린팅 제조 공법과 연결 지은 뛰어난 재료공학적 논문으로, 세라믹 프린팅 파라미터 연구의 이정표 역할을 합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38212154/"
             },
             {
                 title: "Trueness and precision of digital light processing fabricated 3D printed monolithic zirconia crowns",
                 citation: "Alqahtani A, Alotaibi A, Alshehri S. Trueness and precision of digital light processing fabricated 3D printed monolithic zirconia crowns. Journal of Dentistry. 2024.",
-                summary: "This study compared monolithic zirconia crowns fabricated by Digital Light Processing (DLP) 3D printing and milling. While milling offered higher shape reproduction trueness, 3D printing showed superior consistency and precision, confirming its clinical acceptability.",
+                summary: "**주요 발견 및 핵심 요약:** DLP(Digital Light Processing) 방식의 3D 프린터로 제작한 단일 구조 지르코니아 크라운의 진실성과 정밀도를 밀링 방식과 비교했습니다. 밀링 방식이 진실성(형태 재현력)은 높았으나, 3D 프린팅 방식이 더 뛰어난 반복 정밀도(일관성)를 보여 임상적 수용성에 문제가 없음을 확인했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** '진실성'과 '정밀성'의 상충 관계(Trade-off)를 3D 프린팅 세라믹 수복물 관점에서 분석하여, 제조 기법 간의 임상적 득실을 객관적으로 평가하는 기준을 제시합니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38909644/"
             },
             {
                 title: "Optimized 3D printed zirconia-reinforced leucite with antibacterial coating for dental applications",
                 citation: "Silva R, Santos M, Oliveira J. Optimized 3D printed zirconia-reinforced leucite with antibacterial coating for dental applications. Dental Materials. 2024.",
-                summary: "This research evaluated the properties of a 3D-printed zirconia-reinforced leucite composite applied with an antibacterial coating. The combination reinforced structural strength via zirconia nanoparticles while suppressing the risk of bacterial infection around the restoration.",
+                summary: "**주요 발견 및 핵심 요약:** 지르코니아로 강화된 류사이트(leucite) 복합 소재를 3D 프린팅(Robocasting)으로 출력하고, 항균 코팅(SDF+KI)을 적용하여 밀도, 다공성, 파절 인성 등을 평가했습니다. 지르코니아 나노입자를 통해 강도를 보강하면서 동시에 수복물 주변의 박테리아 감염 위험을 억제하는 우수한 임상적 특성을 도출했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 단순한 기계적 특성을 넘어서 구강 내 미생물학적 환경(항균)까지 고려한 다기능성(Multi-functional) 3D 프린팅 신소재 연구의 훌륭한 본보기가 됩니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38369404/"
             },
             {
                 title: "Influence of 3D printed surface micro-structures on molding performance and dental bonding properties of zirconia",
                 citation: "Park M, Choi Y, Jung H. Influence of 3D printed surface micro-structures on molding performance and dental bonding properties of zirconia. Dental Materials. 2024.",
-                summary: "This study investigated increasing the shear bond strength with resin cement by imparting precise micro-structures onto the surface of 3D-printed zirconia during the output process. The 3D-printed micro-structures improved bond strength by approximately 56% compared to conventional sandblasting techniques.",
+                summary: "**주요 발견 및 핵심 요약:** 3D 프린팅 지르코니아 표면에 정밀한 마이크로 구조를 출력 시부터 부여하여 레진 시멘트와의 전단 결합 강도(SBS)를 높이는 실험을 진행했습니다. 기존 샌드블라스팅 처리보다 3D 프린팅으로 미세 구조를 형성했을 때 결합 강도가 약 56% 향상됨을 확인했습니다.\n\n**이 논문이 해당 연구 주제에서 중요한 이유:** 화학적 전처리 방식에 의존하던 지르코니아의 결합력 한계를 3D 프린터 특유의 미세 위상 제어 능력을 이용해 물리적으로 해결하는 획기적이고 실용적인 연구 아이디어를 던져줍니다.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38479706/"
             }
         ]

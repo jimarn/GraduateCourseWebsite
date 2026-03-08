@@ -19,25 +19,25 @@ export const courseData: Category[] = [
             {
                 title: "Scan accuracy of wireless intraoral scanners while digitizing a combined scan body-healing abutment system",
                 citation: "Mühlemann S, Joda T, Brägger U. Scan accuracy of wireless intraoral scanners while digitizing a combined scan body-healing abutment system. Journal of Dentistry. 2024.",
-                summary: "This study evaluated the trueness and precision of digitizing a combined scan body-healing abutment system using wired and wireless intraoral scanners. It found that while wireless scanners performed equally or better in certain planes, they showed a slight tendency to tilt mesiobuccally during implant scanning.",
+                summary: "**Main Findings & Key Summary:** Evaluated the trueness and precision when scanning a combined scan body-healing abutment system using wired and wireless intraoral scanners. The wireless scanner showed comparable or even higher precision in certain planes than the wired scanner, but a tendency to tilt slightly mesiobuccally during implant scanning was identified.\n\n**Significance:** Amidst the accelerating adoption of wireless scanners in clinical settings, analyzing how hardware (wired/wireless) differences affect data distortion patterns serves as a great reference point for graduate students planning research that takes the characteristics of scanner devices themselves as variables.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39419370/"
             },
             {
                 title: "Accuracy of Complete-Arch Scans Obtained by Intraoral Scanner and Smartphone Three-Dimensional Scanning Applications With Different Smartphone Position Setups",
                 citation: "Wang Y, Li J, Zhang S. Accuracy of Complete-Arch Scans Obtained by Intraoral Scanner and Smartphone Three-Dimensional Scanning Applications With Different Smartphone Position Setups. Cureus. 2024.",
-                summary: "This paper compares the 3D and linear accuracy of complete-arch impressions using conventional intraoral scanners and smartphone-based photogrammetry scanning applications. It confirmed that smartphone applications can achieve clinically meaningful scan accuracy depending on the capture angle, such as 30°, 45°, or 90°.",
+                summary: "**Main Findings & Key Summary:** Comprehensively and linearly compared the accuracy of complete-arch impressions using conventional dedicated intraoral scanners and smartphone-based 3D scanning applications (photogrammetry method). Depending on the shooting angle (30°, 45°, 90°, etc.), the scan accuracy using smartphone apps could reach clinically significant levels.\n\n**Significance:** Proposes the groundbreaking topic of ultra-low-cost digital workflows combining mobile devices and AI applications without expensive dedicated scanners, stimulating students' innovative follow-up research ideas.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39077296/"
             },
             {
                 title: "Trueness evaluation of three intraoral scanners for the recording of maximal intercuspal position",
                 citation: "Fang J, Li Y, Chen X. Trueness evaluation of three intraoral scanners for the recording of maximal intercuspal position. Journal of Advanced Prosthodontics. 2024.",
-                summary: "The trueness of recording the maximal intercuspal position (MIP) using three different intraoral scanners (Trios 3, Carestream 3600, Aoralscan 3) was compared to traditional facebow transfer and articulator methods. The research proved that under standardized protocols, digital methods offer equivalent occlusal registration accuracy to analog techniques.",
+                summary: "**Main Findings & Key Summary:** Compared the trueness of recording the maximal intercuspal position (MIP) using three intraoral scanners (Trios 3, Carestream 3600, Aoralscan 3) against traditional facebow transfer and articulator methods. Demonstrated that under standardized scanning protocols, the digital method exhibits occlusal registration accuracy equivalent to the analog method.\n\n**Significance:** Addresses the mechanism of digitally recording intermaxillary relationships (occlusion) beyond single abutment capture, serving as essential evidence when writing research proposals related to full-arch restorations and occlusal reconstruction.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38597082/"
             },
             {
                 title: "Influence of intraoral scanner and finish line location on the fabrication trueness and margin quality of additively manufactured laminate veneers",
                 citation: "Revilla-León M, Gómez-Polo M, Barmak AB. Influence of intraoral scanner and finish line location on the fabrication trueness and margin quality of additively manufactured laminate veneers. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "This study assesses how the type of intraoral scanner and the location of the laminate veneer finish line (supragingival vs. subgingival) affect the trueness and marginal fit of final 3D-printed restorations. Trueness was found to be the lowest at subgingival margins regardless of the scanner, with detailed fit deviations varying by the scanner model used.",
+                summary: "**Main Findings & Key Summary:** Evaluated the influence of laminate veneer finish line locations (supragingival vs. subgingival) and intraoral scanner types on the trueness and margin quality of final 3D printed restorations. Regardless of scanner models, trueness was lowest at subgingival margins, with detailed adaptation deviations depending on the model.\n\n**Significance:** Shows how intraoral anatomical limitations (gingiva) interact with optical scanning limitations during minimally invasive restoration (veneer) fabrication, providing insights for research focusing on aesthetic prosthetic scanning protocols.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/37978007/"
             }
         ]
@@ -49,25 +49,25 @@ export const courseData: Category[] = [
             {
                 title: "Accuracy of intraoral scanners in maxillary multiple restorations: An in vitro study",
                 citation: "Lin WS, Chou JC, Chuang SF. Accuracy of intraoral scanners in maxillary multiple restorations: An in vitro study. Journal of Dental Sciences. 2024.",
-                summary: "This paper compares the accuracy of two intraoral scanners (Trios 3, Virtuo Vivo) with different data acquisition methods across various maxillary restoration scenarios, including single crowns, 3-unit bridges, and complete edentulism. It highlights that while local differences were minimal, multi-unit sections like bridges showed significant trueness deviations based on the image capture method.",
+                summary: "**Main Findings & Key Summary:** Compared the accuracy of two scanners with different data acquisition methods (Trios 3, Virtuo Vivo) across various maxillary restoration scenarios, including single crowns, 3-unit bridges, and complete edentulism. Trueness differences were negligible locally, but significant differences in results occurred in multiple-tooth restoration sections like bridges, depending on the image capture method.\n\n**Significance:** Suggests that optimal hardware technology (e.g., confocal microscopy) performance may vary depending on clinical indications (restoration size and scope), teaching the importance of variable control when writing device comparison papers.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39807255/"
             },
             {
                 title: "Evaluating the influence of palate scanning on the accuracy of complete-arch digital impressions",
                 citation: "Schmalzl J, Kispélyi B, Hermann P. Evaluating the influence of palate scanning on the accuracy of complete-arch digital impressions. Journal of Dentistry. 2024.",
-                summary: "The study evaluated how including the palate in the scan path affects the overall arch data accuracy, particularly in preventing arch distortion during complete-arch digital impressions. The results confirmed that including the palate significantly improves the trueness of complete-arch scans.",
+                summary: "**Main Findings & Key Summary:** Evaluated the effect of including the palate in complete-arch digital impression scanning on overall arch data accuracy (especially preventing arch distortion). Including the palate in the scanning path significantly improved the trueness of complete-arch scans.\n\n**Significance:** Demonstrates the principles of software algorithms utilizing immobile intraoral structures (like palatal rugae) as stitching references, directly relating to research unearthing new scanning landmarks.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38648874/"
             },
             {
                 title: "Influence of operator experience on the complete-arch accuracy and time-based efficiency of three intraoral scanners",
                 citation: "Chen CY, Lee CH, Wu YH. Influence of operator experience on the complete-arch accuracy and time-based efficiency of three intraoral scanners. Journal of Dental Sciences. 2024.",
-                summary: "Investigating the impact of operator experience on scan accuracy and image rendering time using three intraoral scanners, this research found no statistically significant difference in trueness between experienced and inexperienced operators. However, the device's software rendering capabilities greatly influenced time efficiency.",
+                summary: "**Main Findings & Key Summary:** Investigated the influence of operator experience on complete-arch scan accuracy and image rendering time using three modern intraoral scanners. Interestingly, in modern scanner environments, trueness differences between experienced and inexperienced operators were not statistically significant; the device's software rendering capability influenced time efficiency more.\n\n**Significance:** Provides crucial clues on the extent to which AI and software advancements can offset 'operator dependency', inspiring clinical workflow efficiency research.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39873045/"
             },
             {
                 title: "Digital Impressions Versus Conventional Impressions In Prosthodontics: A Review Of Literature",
                 citation: "Alghamdi A, Al-Qarni F. Digital Impressions Versus Conventional Impressions In Prosthodontics: A Review Of Literature. Quest Journals. 2025.",
-                summary: "This comprehensive review compares the performance of digital and conventional impressions. It focuses on patient acceptance, such as reduced gag reflex and discomfort, as well as the dentist's workflow efficiency, including partial rescan features.",
+                summary: "**Main Findings & Key Summary:** A comprehensive review comparing the performance and conditions of digital versus conventional impressions regarding patient acceptance (reduced gag reflex, discomfort) and dentist workflow efficiency (partial rescan functions, etc.).\n\n**Significance:** Teaches how to incorporate ergonomic and psychological variables—such as clinical conditions (patient cooperation, chair time) affecting final scan quality—into research proposals, going beyond mere numerical accuracy (µm).",
                 url: "https://pubmed.ncbi.nlm.nih.gov/?term=Digital+Impressions+Versus+Conventional+Impressions+In+Prosthodontics"
             }
         ]
@@ -79,25 +79,25 @@ export const courseData: Category[] = [
             {
                 title: "The effect of different scanning protocols on precision and trueness of intraoral scanning: A pilot trial",
                 citation: "Sjögren P, Lindholm Y, Al-Bitar K. The effect of different scanning protocols on precision and trueness of intraoral scanning: A pilot trial. Journal of Clinical and Experimental Dentistry. 2024.",
-                summary: "This pilot test evaluated four different scanning paths (ZIGZAG, ROCK, OBP, OWBP) and their impact on scan accuracy. It concluded that specific manufacturer-recommended patterns minimized image stitching errors and provided trueness closest to the reference model.",
+                summary: "**Main Findings & Key Summary:** Pilot-tested the effects of 4 different scanning pathways (protocols)—ZIGZAG, ROCK, OBP, OWBP—on scan accuracy. Manufacturer-recommended specific patterns (like OWBP) minimized image stitching errors, yielding the highest trueness closest to the reference model.\n\n**Significance:** Allows students to thoroughly learn in-vitro experimental methodologies for designing and statistically verifying diverse scanning strategies (pathways) through this paper.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39544207/"
             },
             {
                 title: "Digital integration in dental education: A novel self-directed learning model using intraoral scanners for tooth preparation training",
                 citation: "Liu C, Zhang H, Wang X. Digital integration in dental education: A novel self-directed learning model using intraoral scanners for tooth preparation training. Journal of Dental Sciences. 2024.",
-                summary: "Analyzing a self-directed learning model for dental students, this study demonstrated that immediate 3D feedback from intraoral scanners significantly improves practical tooth preparation skills and reduces operator anxiety.",
+                summary: "**Main Findings & Key Summary:** Analyzed how a self-directed learning model utilizing intraoral scanners improves dental students' abutment preparation skills. Proved that immediate 3D feedback from scanners significantly enhanced operators' practical skills (prep accuracy) and contributed to reducing anxiety.\n\n**Significance:** Shows that digital dental devices can function beyond simple 'tools' as 'educational support systems' correcting clinician skills, making it useful for planning dental edutech-related research.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39873029/"
             },
             {
                 title: "Accuracy of Digital Intraoral Scans Three-dimensional Surface Analysis Compared with Plaster Models Dental Measurement in Mixed Dentition",
                 citation: "Nelwan SC, Setyowati D, Nugraha AP. Accuracy of Digital Intraoral Scans Three-dimensional Surface Analysis Compared with Plaster Models Dental Measurement in Mixed Dentition. International Journal of Clinical Pediatric Dentistry. 2024.",
-                summary: "This study compared the accuracy of intraoral scanners against traditional plaster model measurements using Moyer's analysis in mixed dentition with irregular alignment. It verified that digital scanning strategies achieve clinically acceptable accuracy even under complex surface conditions.",
+                summary: "**Main Findings & Key Summary:** Compared operator accuracy using intraoral scanners versus traditional plaster models in irregular mixed dentition environments using Moyer's analysis. Confirmed that digital scanning strategies achieve clinically acceptable accuracy for tooth measurement even under complex surface conditions.\n\n**Significance:** Suitable for operator skill and strategy research aimed at overcoming scanning difficulties in special patient groups (pediatric, orthodontic patients, etc.) with severe undercuts and difficult saliva control.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39867119/"
             },
             {
                 title: "Effect of tooth color on the accuracy of intraoral complete arch scanning under different light conditions using a zirconia restoration model",
                 citation: "Kim J, Lee S, Park C. Effect of tooth color on the accuracy of intraoral complete arch scanning under different light conditions using a zirconia restoration model. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "Through multivariate analysis, this research explored how various ambient lighting conditions and restoration colors affect intraoral scanner data acquisition accuracy. The findings proved that the interaction between specific lighting environments and tooth color can induce image stitching errors.",
+                summary: "**Main Findings & Key Summary:** Conducted multivariate analysis on the effects of different ambient lighting conditions (chair light, natural light, no light, etc.) and restoration colors (chroma, value) on intraoral scanner data acquisition accuracy. Proved that specific lighting environments and tooth color interactions can induce stitching errors.\n\n**Significance:** Fosters multifaceted experimental design capabilities by raising awareness that controlling chairside environments (illumination)—not just technical hand skills (movement pathways)—is a highly crucial 'operating skill'.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/37923645/"
             }
         ]
@@ -109,25 +109,25 @@ export const courseData: Category[] = [
             {
                 title: "Photogrammetry Versus Intraoral Scanning in Complete-Arch Digital Implant Impression: A Systematic Review and Meta-Analysis",
                 citation: "Gómez-Polo M, Ortega R, Gómez-Polo C. Photogrammetry Versus Intraoral Scanning in Complete-Arch Digital Implant Impression: A Systematic Review and Meta-Analysis. The International Journal of Oral & Maxillofacial Implants. 2024.",
-                summary: "A meta-analysis comparing the accuracy of conventional intraoral scanners with stereophotogrammetry (SPG) for complete-arch implant impressions. The research confirmed that SPG systems are statistically far superior in reducing linear and angular deviations for multiple implants.",
+                summary: "**Main Findings & Key Summary:** A recent meta-analysis comparing the accuracy of conventional intraoral scanners (IOS) and stereophotogrammetry (SPG) equipment for complete-arch implant impressions. Confirmed that SPG systems are statistically far superior and more reliable than IOS in reducing linear and angular deviations for multiple implants.\n\n**Significance:** Provides a solid basis for expanding research focus beyond conventional IOS technology to cutting-edge innovative equipment like Photogrammetry to overcome complete-arch edentulous digital workflow limitations.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/40481748/"
             },
             {
                 title: "Accuracy of intraoral optical scan versus stereophotogrammetry for complete-arch digital implant impression: An in vitro study",
                 citation: "Di Fiore A, Meneghello R, Graiff L. Accuracy of intraoral optical scan versus stereophotogrammetry for complete-arch digital implant impression: An in vitro study. Journal of Prosthodontic Research. 2024.",
-                summary: "Measuring the 3D and angular deviations of optical scanners versus SPG equipment on a complete-arch implant model, this in-vitro study found that SPG showed consistent repeatability. In contrast, optical scanners frequently exhibited extreme deviations exceeding passive fit tolerances.",
+                summary: "**Main Findings & Key Summary:** Measured 3D and angular deviations of optical IOS and SPG equipment on complete-arch implant models in an in-vitro setting. Optical scanners frequently produced extreme deviations (exceeding passive fit tolerances), while SPG showed consistent repeatability precision.\n\n**Significance:** By explaining the achievement of 'passive fit'—the most critical factor in implant prosthetics—combined with 3D deviation values, it's an excellent study case fusing classic prosthodontic values with digital technologies.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/37574278/"
             },
             {
                 title: "Complete-arch accuracy of seven intraoral scanners measured by the virtual-fit method",
                 citation: "Vecsei B, Joós-Kovács G, Borbély J. Complete-arch accuracy of seven intraoral scanners measured by the virtual-fit method. Journal of Dentistry. 2024.",
-                summary: "This paper evaluates complete-arch data from seven commercial intraoral scanners using a 'Virtual-fit' method. It simulated how adjusting the internal cement gap in CAD software can compensate for fit deviations caused by distorted complete-arch stitched data.",
+                summary: "**Main Findings & Key Summary:** Evaluated complete-arch data acquired from 7 commercial intraoral scanners using a 'Virtual-fit' method. Simulated how artificially increasing internal cement gaps in software can compensate for adaptation deviations among devices on completely distorted arch data caused by stitching.\n\n**Significance:** Proposes highly innovative prosthodontic solutions attempting to overcome physical error limitations of hardware (scanners) through software parameter adjustments (setting cement gaps during CAD design).",
                 url: "https://pubmed.ncbi.nlm.nih.gov/39094976/"
             },
             {
                 title: "Improving the accuracy of complete arch implant intraoral digital scans by using horizontal scan bodies with occlusal geometry",
                 citation: "Solaberrieta E, Garmendia A, Brizuela A. Improving the accuracy of complete arch implant intraoral digital scans by using horizontal scan bodies with occlusal geometry. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "The study proposes a novel technique using horizontal scan bodies with occlusal geometry instead of traditional vertical ones to improve the accuracy of complete-arch implant scans. This morphological data allows the scanner to more easily recognize and stitch the captured areas.",
+                summary: "**Main Findings & Key Summary:** Proposed a novel dental technique using horizontal scan bodies with occlusal geometry instead of conventional vertical scan bodies to increase complete-arch implant scan accuracy. This allows scanners to more easily recognize and stitch morphological data.\n\n**Significance:** An empirical study achieving structural innovations by directly improving uniform scan body designs provided by manufacturers, offering immense insights for drafting papers centered on design modification of dental materials and instruments.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38395642/"
             }
         ]
@@ -139,25 +139,25 @@ export const courseData: Category[] = [
             {
                 title: "Comparative analysis of flexural strength of 3D printed and milled 4Y-TZP and 3Y-TZP zirconia",
                 citation: "Lee H, Kim S, Kwon H. Comparative analysis of flexural strength of 3D printed and milled 4Y-TZP and 3Y-TZP zirconia. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "This study compared the biaxial flexural strength of 3Y-TZP and 4Y-TZP zirconia fabricated by milling and 3D printing. It proved that 3D-printed 4Y-TZP exhibits significantly higher flexural strength, exceeding 800 MPa, making it an excellent clinical alternative.",
+                summary: "**Main Findings & Key Summary:** Comparatively analyzed the biaxial flexural strength of 3Y-TZP and 4Y-TZP zirconia fabricated via milling and 3D printing. 3D printed 4Y-TZP structurally proved to be an excellent clinical alternative by demonstrating significantly higher flexural strength (>800 MPa) than milled 4Y-TZP.\n\n**Significance:** An outstanding materials engineering paper linking ceramic material mechanical property changes depending on Yttria content fraction with 3D printing fabrication methods, acting as a milestone for ceramic printing parameter research.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38212154/"
             },
             {
                 title: "Trueness and precision of digital light processing fabricated 3D printed monolithic zirconia crowns",
                 citation: "Alqahtani A, Alotaibi A, Alshehri S. Trueness and precision of digital light processing fabricated 3D printed monolithic zirconia crowns. Journal of Dentistry. 2024.",
-                summary: "This study compared monolithic zirconia crowns fabricated by Digital Light Processing (DLP) 3D printing and milling. While milling offered higher shape reproduction trueness, 3D printing showed superior consistency and precision, confirming its clinical acceptability.",
+                summary: "**Main Findings & Key Summary:** Compared the trueness and precision of monolithic zirconia crowns fabricated by DLP (Digital Light Processing) 3D printers with milled methods. The milling method had higher trueness (morphological reproduction), but the 3D printing method showed superior repeatable precision (consistency), confirming no issues with clinical acceptability.\n\n**Significance:** Analyzes the trade-off between 'trueness' and 'precision' from the standpoint of 3D printed ceramic restorations, presenting objective evaluation standards for clinical pros and cons between manufacturing methods.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38909644/"
             },
             {
                 title: "Optimized 3D printed zirconia-reinforced leucite with antibacterial coating for dental applications",
                 citation: "Silva R, Santos M, Oliveira J. Optimized 3D printed zirconia-reinforced leucite with antibacterial coating for dental applications. Dental Materials. 2024.",
-                summary: "This research evaluated the properties of a 3D-printed zirconia-reinforced leucite composite applied with an antibacterial coating. The combination reinforced structural strength via zirconia nanoparticles while suppressing the risk of bacterial infection around the restoration.",
+                summary: "**Main Findings & Key Summary:** 3D printed (Robocasting) a zirconia-reinforced leucite composite, applied an antibacterial coating (SDF+KI), and evaluated density, porosity, fracture toughness, etc. It derived excellent clinical properties that inhibit bacterial infection risks around restorations while reinforcing strength via zirconia nanoparticles.\n\n**Significance:** An excellent paradigm of multi-functional 3D printing new materials research that considers the intraoral microbiological environment (antibacterial properties) beyond mere mechanical traits.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38369404/"
             },
             {
                 title: "Influence of 3D printed surface micro-structures on molding performance and dental bonding properties of zirconia",
                 citation: "Park M, Choi Y, Jung H. Influence of 3D printed surface micro-structures on molding performance and dental bonding properties of zirconia. Dental Materials. 2024.",
-                summary: "This study investigated increasing the shear bond strength with resin cement by imparting precise micro-structures onto the surface of 3D-printed zirconia during the output process. The 3D-printed micro-structures improved bond strength by approximately 56% compared to conventional sandblasting techniques.",
+                summary: "**Main Findings & Key Summary:** Conducted an experiment augmenting shear bond strength (SBS) with resin cement by imparting precise micro-structures onto 3D printed zirconia surfaces right from printing. It confirmed that bond strength improved by roughly 56% when forming micro-structures via 3D printing compared to conventional sandblasting.\n\n**Significance:** Tosses groundbreaking and practical research ideas physically resolving zirconia's bonding limitations—which relied on chemical pretreatment methods—using unique 3D printer micro-topological control capabilities.",
                 url: "https://pubmed.ncbi.nlm.nih.gov/38479706/"
             }
         ]

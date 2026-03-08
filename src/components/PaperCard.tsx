@@ -10,6 +10,16 @@ interface PaperCardProps {
 export const PaperCard: React.FC<PaperCardProps> = ({ paper, index }) => {
     const [isExpanded, setIsExpanded] = useState(false);
 
+    const renderWithBold = (text: string) => {
+        if (!text) return null;
+        return text.split(/(\*\*.*?\*\*)/g).map((part, i) => {
+            if (part.startsWith('**') && part.endsWith('**')) {
+                return <strong key={i}>{part.slice(2, -2)}</strong>;
+            }
+            return <React.Fragment key={i}>{part}</React.Fragment>;
+        });
+    };
+
     return (
         <div className={`PaperCard ${isExpanded ? 'is-expanded' : ''}`} onClick={() => setIsExpanded(!isExpanded)}>
             <div className="PaperCard-header">
@@ -26,7 +36,7 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, index }) => {
                         <strong>Citation:</strong> {paper.citation}
                     </div>
                     <div className="PaperCard-summary">
-                        <strong>Summary:</strong> {paper.summary}
+                        <strong>Summary:</strong> {renderWithBold(paper.summary)}
                     </div>
                     {paper.url && (
                         <div className="PaperCard-link">
