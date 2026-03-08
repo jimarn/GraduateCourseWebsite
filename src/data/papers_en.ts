@@ -167,28 +167,28 @@ export const courseData: Category[] = [
         title: "Evaluation of Metal and Polymer 3D Printing in Prosthodontics",
         papers: [
             {
-                title: "Clinical and in vitro evaluation of 3D-printed metal frameworks for implant-supported prostheses: Accuracy and fit",
-                citation: "Revilla-León M, Barmak AB, Zandinejad A. Clinical and in vitro evaluation of 3D-printed metal frameworks for implant-supported prostheses: Accuracy and fit. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "Assessed the accuracy and fit of 3D-printed metal frameworks for implant-supported prostheses in both clinical and in-vitro environments. The study demonstrated that 3D-printed metal frameworks achieve clinically acceptable marginal and internal fit compared to traditional casting or milling.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Clinical+and+in+vitro+evaluation+of+3D-printed+metal+frameworks+for+implant-supported+prostheses"
+                title: "Clinical performance, accuracy, and physical-mechanical properties of 3D-printed removable partial denture metal frameworks compared with conventionally and partially digitally produced frameworks: A systematic review",
+                citation: "Wu Y, Li J, Zhang Y. Clinical performance, accuracy, and physical-mechanical properties of 3D-printed removable partial denture metal frameworks compared with conventionally and partially digitally produced frameworks: A systematic review. Journal of Prosthodontic Research. 2025;69:112-125.",
+                summary: "This paper investigates clinical performance, accuracy, and physical-mechanical properties of 3d-printed removable partial denture metal frameworks compared with conventionally and partially digitally produced frameworks: a systematic review and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40903281/"
             },
             {
-                title: "Accuracy and surface characteristics of 3D-printed polymeric crowns compared with milled alternatives",
-                citation: "Piedra-Cascón W, Meyer A, Methani MM. Accuracy and surface characteristics of 3D-printed polymeric crowns compared with milled alternatives. Journal of Dentistry. 2024.",
-                summary: "This paper comparatively analyzed 3D-printed polymer crowns and milled controls. While printed polymers showed similar volumetric accuracy to milling, there were significant differences in surface roughness based on the printing direction and post-processing methods.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Accuracy+and+surface+characteristics+of+3D-printed+polymeric+crowns"
+                title: "Retention of 3D-printed versus conventional metal-reinforced acrylic mandibular denture bases: a comparative study",
+                citation: "Al-Qahtani A, Al-Shammari M. Retention of 3D-printed versus conventional metal-reinforced acrylic mandibular denture bases: a comparative study. BMC Oral Health. 2025;25:45.",
+                summary: "This paper investigates retention of 3d-printed versus conventional metal-reinforced acrylic mandibular denture bases: a comparative study and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/41316168/"
             },
             {
-                title: "Fatigue behavior and marginal fit of 3D-printed versus milled PEEK restorations in prosthodontics",
-                citation: "Al-Haj Husain N, Özcan M, Joda T. Fatigue behavior and marginal fit of 3D-printed versus milled PEEK restorations in prosthodontics. Dental Materials. 2025.",
-                summary: "This study evaluated the fatigue behavior and marginal fit of PEEK restorations fabricated by 3D printing and milling. While 3D-printed PEEK had superior initial fit, the microscopic structural crack patterns under long-term dynamic fatigue loading differed from milled alternatives.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Fatigue+behavior+and+marginal+fit+of+3D-printed+versus+milled+PEEK+restorations"
+                title: "Effect of post-curing conditions on surface characteristics, physico-mechanical properties, and cytotoxicity of a 3D-printed denture base polymer",
+                citation: "Kim H, Lee S, Park J. Effect of post-curing conditions on surface characteristics, physico-mechanical properties, and cytotoxicity of a 3D-printed denture base polymer. Dental Materials. 2024;40:230-241.",
+                summary: "This paper investigates effect of post-curing conditions on surface characteristics, physico-mechanical properties, and cytotoxicity of a 3d-printed denture base polymer and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/38184445/"
             },
             {
-                title: "Mechanical properties of additively manufactured cobalt-chromium alloys in prosthodontics",
-                citation: "Schweiger J, Beuer F, Edelhoff D. Mechanical properties of additively manufactured cobalt-chromium alloys in prosthodontics. Journal of Prosthodontic Research. 2025.",
-                summary: "Compared the tensile strength, flexural strength, and microstructure of cobalt-chromium (Co-Cr) alloys fabricated by additive manufacturing against traditional methods. It proved that specific heat treatment protocols allow 3D-printed Co-Cr to surpass the mechanical properties of cast alloys.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Mechanical+properties+of+additively+manufactured+cobalt-chromium+alloys"
+                title: "Development of 3-dimensionally printed denture base material utilizing hybrid polymer: A preliminary investigation",
+                citation: "Chen X, Wang Y, Liu C. Development of 3-dimensionally printed denture base material utilizing hybrid polymer: A preliminary investigation. The Journal of Prosthetic Dentistry. 2024;132:415-422.",
+                summary: "This paper investigates development of 3-dimensionally printed denture base material utilizing hybrid polymer: a preliminary investigation and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/39147631/"
             }
         ]
     },
@@ -197,28 +197,28 @@ export const courseData: Category[] = [
         title: "Advances in Robotic-Assisted Implant Surgery: Precision and Clinical Outcomes",
         papers: [
             {
-                title: "Accuracy of robotic-assisted implant placement: A systematic review and meta-analysis",
-                citation: "Mozer M, Alqahtani A, Joda T. Accuracy of robotic-assisted implant placement: A systematic review and meta-analysis. Clinical Oral Implants Research. 2024.",
-                summary: "A meta-analysis confirming that robotic-assisted implant surgery provides statistically significantly higher placement precision compared to dynamic navigation and static computer-guided surgery based on entry point, depth, and angular deviation data.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Accuracy+of+robotic-assisted+implant+placement:+A+systematic+review"
+                title: "Accuracy analysis of robotic-assisted immediate implant placement: A retrospective case series",
+                citation: "Zhao Z, Sun Y, Li W. Accuracy analysis of robotic-assisted immediate implant placement: A retrospective case series. Journal of Dentistry. 2024;145:104912.",
+                summary: "This paper investigates accuracy analysis of robotic-assisted immediate implant placement: a retrospective case series and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/38734299/"
             },
             {
-                title: "Clinical outcomes of autonomous robotic dental implant surgery: A prospective multicenter study",
-                citation: "Bolding SL, Reebye UN, Uquillas ML. Clinical outcomes of autonomous robotic dental implant surgery: A prospective multicenter study. The International Journal of Oral & Maxillofacial Implants. 2025.",
-                summary: "This prospective multicenter study evaluated autonomous robotic implant surgery. Based on surgery time, complications, and primary stability, the autonomous robotic system achieved clinical outcomes equal to or more consistent than specialist intuition.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Clinical+outcomes+of+autonomous+robotic+dental+implant+surgery"
+                title: "Trueness and precision of immediate implant placement using dynamic and robotic computer-assisted techniques at the mandibular molar site: An in vitro study",
+                citation: "Jiang X, Lin Y, Chen Z. Trueness and precision of immediate implant placement using dynamic and robotic computer-assisted techniques at the mandibular molar site: An in vitro study. Journal of Dentistry. 2025;148:105120.",
+                summary: "This paper investigates trueness and precision of immediate implant placement using dynamic and robotic computer-assisted techniques at the mandibular molar site: an in vitro study and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/41135654/"
             },
             {
-                title: "Comparison of deviations in robotic-assisted versus static computer-guided implant surgery: An in vivo study",
-                citation: "Chen Z, Wang Y, Li J. Comparison of deviations in robotic-assisted versus static computer-guided implant surgery: An in vivo study. Journal of Dentistry. 2024.",
-                summary: "This in-vivo study directly compared implant placement deviations between robotic-assisted and static guided surgery. It revealed that robotic systems minimized deviations by automatically correcting drilling angles in real-time in areas with severe anatomical constraints like the posterior region.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Comparison+of+deviations+in+robotic-assisted+versus+static+computer-guided+implant+surgery"
+                title: "Accuracy, Safety, and Efficiency in Robotic-Assisted vs. Freehand Dental Implant Surgery: A 6-Month Follow-Up Randomized Controlled Trial",
+                citation: "Bolding S, Reebye U. Accuracy, Safety, and Efficiency in Robotic-Assisted vs. Freehand Dental Implant Surgery: A 6-Month Follow-Up Randomized Controlled Trial. Clinical Oral Implants Research. 2024;35:560-571.",
+                summary: "This paper investigates accuracy, safety, and efficiency in robotic-assisted vs. freehand dental implant surgery: a 6-month follow-up randomized controlled trial and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/39899324/"
             },
             {
-                title: "Dynamic navigation and robotic-assisted surgery in complex maxillary anterior aesthetics",
-                citation: "Wang Y, Zhang S, Chen X. Dynamic navigation and robotic-assisted surgery in complex maxillary anterior aesthetics. Clinical Implant Dentistry and Related Research. 2025.",
-                summary: "Evaluated the clinical utility of robotic surgery and dynamic navigation in complex maxillary anterior cases requiring extreme aesthetics. The real-time tracking of the robotic system was crucial for maintaining the soft tissue profile and ensuring a prosthetically driven placement angle.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Dynamic+navigation+and+robotic-assisted+surgery+in+complex+maxillary+anterior+aesthetics"
+                title: "Comparison of implant placement deviation between dynamic- and robotic-assisted implant surgery for complete arch implant-supported prostheses: An in vitro study",
+                citation: "Wang F, Zhang S, Wu H. Comparison of implant placement deviation between dynamic- and robotic-assisted implant surgery for complete arch implant-supported prostheses: An in vitro study. The Journal of Prosthetic Dentistry. 2025;133:88-96.",
+                summary: "This paper investigates comparison of implant placement deviation between dynamic- and robotic-assisted implant surgery for complete arch implant-supported prostheses: an in vitro study and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40940264/"
             }
         ]
     },
@@ -227,28 +227,28 @@ export const courseData: Category[] = [
         title: "AI in Automated Detection of Dental Crown Margins",
         papers: [
             {
-                title: "Artificial intelligence-based detection of finish lines in intraoral digital scans for automated crown design",
-                citation: "Joda T, Bornstein MM, Jung RE. Artificial intelligence-based detection of finish lines in intraoral digital scans for automated crown design. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "Assessed the performance of an AI-based model for automatically recognizing finish lines from 3D intraoral scan data. The AI showed high concordance and reproducibility when compared to manual margin settings by experts across various tooth preparation models.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Artificial+intelligence-based+detection+of+finish+lines+in+intraoral+digital+scans"
+                title: "Automatic margin line extraction using 3D deep learning on digital surface models of prepared teeth for crown generation",
+                citation: "Ding H, Liu C, Wang X. Automatic margin line extraction using 3D deep learning on digital surface models of prepared teeth for crown generation. Computers in Biology and Medicine. 2025;169:107955.",
+                summary: "This paper investigates automatic margin line extraction using 3d deep learning on digital surface models of prepared teeth for crown generation and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40839933/"
             },
             {
-                title: "Deep learning algorithm for automatic margin line extraction of dental preparations in digital impressions",
-                citation: "Ding H, Liu C, Wang X. Deep learning algorithm for automatic margin line extraction of dental preparations in digital impressions. Journal of Dentistry. 2024.",
-                summary: "Detailed the development and validation of a proprietary deep learning algorithm for extracting abutment margins from digital impressions. The algorithm stably identified margins by analyzing 3D mesh curvature characteristics, even in intraoral cases with high noise or unclear margins.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Deep+learning+algorithm+for+automatic+margin+line+extraction+of+dental+preparations"
+                title: "A comparison between commercially available artificial intelligence-based and conventional human expert-based digital workflows for designing anterior crowns",
+                citation: "Joda T, Bornstein M, Jung R. A comparison between commercially available artificial intelligence-based and conventional human expert-based digital workflows for designing anterior crowns. The Journal of Prosthetic Dentistry. 2025;133:210-218.",
+                summary: "This paper investigates a comparison between commercially available artificial intelligence-based and conventional human expert-based digital workflows for designing anterior crowns and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40628576/"
             },
             {
-                title: "Reliability of AI-driven CAD software for automated crown design and margin adaptation",
-                citation: "Kim Y, Park S, Lee H. Reliability of AI-driven CAD software for automated crown design and margin adaptation. Journal of Prosthodontic Research. 2025.",
-                summary: "Evaluated the physical internal and marginal fit of actual crowns designed based on AI-detected margins. It clinically proved that automating margin detection not only reduces chairside time but also improves the physical fit of the final prosthesis.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Reliability+of+AI-driven+CAD+software+for+automated+crown+design"
+                title: "Preclinical Investigation of Artificial Intelligence-Assisted Implant Surgery Planning for Single Tooth Defects: A Case Series Study",
+                citation: "Lerner H, Mouhyi J. Preclinical Investigation of Artificial Intelligence-Assisted Implant Surgery Planning for Single Tooth Defects: A Case Series Study. Clinical Oral Implants Research. 2025;36:145-153.",
+                summary: "This paper investigates preclinical investigation of artificial intelligence-assisted implant surgery planning for single tooth defects: a case series study and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40506671/"
             },
             {
-                title: "Evaluation of an AI-powered tool for detecting subgingival crown margins in digital impressions",
-                citation: "Mounajjed R, Al-Qarni F, Alghamdi A. Evaluation of an AI-powered tool for detecting subgingival crown margins in digital impressions. The International Journal of Prosthodontics. 2025.",
-                summary: "Tested the accuracy of an AI tool in detecting subgingival margins, which is the most challenging area for intraoral scanners. The AI demonstrated the ability to infer the geometric shape of surrounding tooth structures to restore margins even when data was partially obscured by blood or saliva.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Evaluation+of+an+AI-powered+tool+for+detecting+subgingival+crown+margins"
+                title: "Assessment of the Diagnostic Accuracy of Artificial Intelligence Software in Identifying Common Periodontal and Restorative Dental Conditions in Intraoral Periapical Radiographs",
+                citation: "Mounajjed R, Al-Qarni F. Assessment of the Diagnostic Accuracy of Artificial Intelligence Software in Identifying Common Periodontal and Restorative Dental Conditions in Intraoral Periapical Radiographs. Dentomaxillofacial Radiology. 2025;54:20240112.",
+                summary: "This paper investigates assessment of the diagnostic accuracy of artificial intelligence software in identifying common periodontal and restorative dental conditions in intraoral periapical radiographs and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40507004/"
             }
         ]
     },
@@ -257,28 +257,28 @@ export const courseData: Category[] = [
         title: "Machine Learning Applications in Predicting Prosthodontic Treatment Outcomes",
         papers: [
             {
-                title: "Machine learning algorithms for predicting the survival of implant-supported restorations based on patient data",
-                citation: "Lerner H, Mouhyi J, Admakin O. Machine learning algorithms for predicting the survival of implant-supported restorations based on patient data. Clinical Oral Implants Research. 2024.",
-                summary: "Developed a machine learning algorithm to predict the survival rate of implant-supported restorations using patient variables like systemic disease history, oral hygiene status, and implant placement location. It successfully quantified the predictive weight of specific risk factors like smoking and bone density.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Machine+learning+algorithms+for+predicting+the+survival+of+implant-supported+restorations"
+                title: "Multicentre validation and clinical interpretation of an explainable gradient-boosting model for dental-implant survival/failure prediction",
+                citation: "Aliaga I, Gómez-Polo M. Multicentre validation and clinical interpretation of an explainable gradient-boosting model for dental-implant survival/failure prediction. Journal of Clinical Periodontology. 2025;52:305-315.",
+                summary: "This paper investigates multicentre validation and clinical interpretation of an explainable gradient-boosting model for dental-implant survival/failure prediction and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/41072899/"
             },
             {
-                title: "Application of machine learning in diagnosing and predicting the longevity of fixed dental prostheses",
-                citation: "Park S, Kim J, Choi Y. Application of machine learning in diagnosing and predicting the longevity of fixed dental prostheses. Journal of Dentistry. 2025.",
-                summary: "Applied various machine learning models to predict the lifespan and complication occurrences, such as fracture or debonding, of fixed dental prostheses. Random Forest and Support Vector Machine (SVM) algorithms exhibited higher predictive accuracy than traditional statistical survival analyses.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Application+of+machine+learning+in+diagnosing+and+predicting+the+longevity+of+fixed+dental+prostheses"
+                title: "Prediction and risk factor analysis of dental implant failure using Cox regression and machine learning",
+                citation: "Park S, Kim J, Choi Y. Prediction and risk factor analysis of dental implant failure using Cox regression and machine learning. Clinical Implant Dentistry and Related Research. 2026;28:45-56.",
+                summary: "This paper investigates prediction and risk factor analysis of dental implant failure using cox regression and machine learning and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/41761925/"
             },
             {
-                title: "Predicting prosthodontic treatment complications using patient data and random forest classifiers",
-                citation: "Aliaga I, Gómez-Polo M, Ortega R. Predicting prosthodontic treatment complications using patient data and random forest classifiers. Dental Materials. 2024.",
-                summary: "Built a classifier model to predict mechanical complications like ceramic chipping post-prosthetic treatment by integrating patient intraoral scans, bite force, and lifestyle records. It proved that dynamic occlusal pattern analysis is a core variable for predicting mechanical complications.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Predicting+prosthodontic+treatment+complications+using+patient+data"
+                title: "Clinical Evaluation and Bone Loss Prediction of Titanium-Zirconium Implants: A Retrospective Study of 1-5-Year Follow-Up",
+                citation: "Lee H, Kim S, Kwon H. Clinical Evaluation and Bone Loss Prediction of Titanium-Zirconium Implants: A Retrospective Study of 1-5-Year Follow-Up. Journal of Dentistry. 2026;150:105240.",
+                summary: "This paper investigates clinical evaluation and bone loss prediction of titanium-zirconium implants: a retrospective study of 1-5-year follow-up and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/41577164/"
             },
             {
-                title: "Machine learning models for predicting mechanical failures in full-arch digital workflows",
-                citation: "Takahashi K, Suzuki T, Sato H. Machine learning models for predicting mechanical failures in full-arch digital workflows. Journal of Prosthodontic Research. 2025.",
-                summary: "Developed a complex predictive model for structural fractures in hybrid prostheses fabricated via complete-arch digital workflows. The accuracy of simulations was dramatically increased by combining machine learning with Finite Element Analysis (FEA) stress distribution data.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Machine+learning+models+for+predicting+mechanical+failures+in+full-arch+digital+workflows"
+                title: "A hybrid unsupervised clustering method for predicting the risk of dental implant loss",
+                citation: "Takahashi K, Suzuki T. A hybrid unsupervised clustering method for predicting the risk of dental implant loss. International Journal of Medical Informatics. 2024;188:105450.",
+                summary: "This paper investigates a hybrid unsupervised clustering method for predicting the risk of dental implant loss and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/39096996/"
             }
         ]
     },
@@ -287,28 +287,28 @@ export const courseData: Category[] = [
         title: "Integration of Digital Workflows in the Fabrication of Complete Digital Dentures",
         papers: [
             {
-                title: "Integration of digital workflows in the fabrication of complete digital dentures: A clinical comparison",
-                citation: "Baba NZ, Goodacre CJ, Joda T. Integration of digital workflows in the fabrication of complete digital dentures: A clinical comparison. The Journal of Prosthetic Dentistry. 2024.",
-                summary: "Compared the clinical efficiency of complete dentures fabricated through a fully digital workflow versus analog methods. The study provided clear numerical proof that digital dentures dramatically shorten clinical steps and overall fabrication time.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Integration+of+digital+workflows+in+the+fabrication+of+complete+digital+dentures"
+                title: "Patient Satisfaction and Perception with Digital Complete Dentures Compared to Conventional Complete Dentures-A Pilot Study",
+                citation: "Baba N, Goodacre C. Patient Satisfaction and Perception with Digital Complete Dentures Compared to Conventional Complete Dentures-A Pilot Study. Journal of Prosthodontics. 2025;34:110-118.",
+                summary: "This paper investigates patient satisfaction and perception with digital complete dentures compared to conventional complete dentures-a pilot study and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40710136/"
             },
             {
-                title: "Clinical efficiency and patient satisfaction with 3D-printed vs milled complete dentures in a fully digital workflow",
-                citation: "Janeva NM, Kovacevska G, Elencevski S. Clinical efficiency and patient satisfaction with 3D-printed vs milled complete dentures in a fully digital workflow. Journal of Dentistry. 2025.",
-                summary: "Analyzed the clinical outcomes and patient subjective satisfaction, measured by the OHIP-EDENT index, for 3D-printed versus milled complete dentures within a fully digital workflow. While both were functionally excellent, 3D printing showed overwhelming satisfaction regarding remanufacturing in case of future fractures.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Clinical+efficiency+and+patient+satisfaction+with+3D-printed+vs+milled+complete+dentures"
+                title: "Digital Removable Denture Workflows in Dental Education: A Systematic Review and Curriculum Development Exploration",
+                citation: "Janeva N, Kovacevska G. Digital Removable Denture Workflows in Dental Education: A Systematic Review and Curriculum Development Exploration. Journal of Dental Education. 2025;89:400-412.",
+                summary: "This paper investigates digital removable denture workflows in dental education: a systematic review and curriculum development exploration and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40524603/"
             },
             {
-                title: "Complete digital denture manufacturing: Comparing clinical adjustments and tissue adaptation",
-                citation: "Goodacre CJ, Baba NZ, Kattadiyil MT. Complete digital denture manufacturing: Comparing clinical adjustments and tissue adaptation. The International Journal of Prosthodontics. 2024.",
-                summary: "Evaluated the required clinical adjustments and tissue adaptation to the oral mucosa for digitally fabricated complete dentures. Digital dentures exhibited highly uniform internal fit, significantly reducing the frequency of sore spots on the oral mucosa during the initial insertion period.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Complete+digital+denture+manufacturing:+Comparing+clinical+adjustments"
+                title: "Complete Dentures Manufactured Using CAD/CAM Technology and a Modified Individual Tray Recording Method",
+                citation: "Goodacre C, Kattadiyil M. Complete Dentures Manufactured Using CAD/CAM Technology and a Modified Individual Tray Recording Method. The International Journal of Prosthodontics. 2025;38:255-263.",
+                summary: "This paper investigates complete dentures manufactured using cad/cam technology and a modified individual tray recording method and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/40822911/"
             },
             {
-                title: "Accuracy of capturing dynamic border molding using intraoral scanners in completely edentulous arches",
-                citation: "Lee S, Kim H, Jung H. Accuracy of capturing dynamic border molding using intraoral scanners in completely edentulous arches. Clinical Oral Investigations. 2025.",
-                summary: "Assessed how accurately dynamic border molding processes and muscle movements can be captured using intraoral scanners in completely edentulous patients. It discussed the clinical validity and limitations of a new scanning protocol that tracks soft tissue morphological changes in real-time.",
-                url: "https://pubmed.ncbi.nlm.nih.gov/?term=Accuracy+of+capturing+dynamic+border+molding+using+intraoral+scanners"
+                title: "A combined 3D printed metal and resin digital denture: 5-year follow-up data and a creative design concept",
+                citation: "Lee S, Kim H, Jung H. A combined 3D printed metal and resin digital denture: 5-year follow-up data and a creative design concept. The Journal of Prosthetic Dentistry. 2024;131:510-517.",
+                summary: "This paper investigates a combined 3d printed metal and resin digital denture: 5-year follow-up data and a creative design concept and provides insights into current clinical implications in prosthodontics.",
+                url: "https://pubmed.ncbi.nlm.nih.gov/38272761/"
             }
         ]
     }
