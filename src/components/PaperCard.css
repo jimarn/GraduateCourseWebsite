@@ -1,0 +1,125 @@
+.PaperCard {
+    background: white;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    position: relative;
+}
+
+.PaperCard:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
+    border-color: #cbd5e1;
+}
+
+.PaperCard.is-expanded {
+    box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.1), 0 8px 10px -6px rgba(37, 99, 235, 0.1);
+    border-color: #bfdbfe;
+}
+
+.PaperCard-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.PaperCard-index {
+    background: #f1f5f9;
+    color: #475569;
+    font-weight: 700;
+    font-size: 0.85rem;
+    min-width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.PaperCard.is-expanded .PaperCard-index {
+    background: #eff6ff;
+    color: #2563eb;
+}
+
+.PaperCard-title {
+    margin: 0;
+    font-size: 1.05rem;
+    line-height: 1.4;
+    color: #1e293b;
+    font-weight: 600;
+    flex-grow: 1;
+}
+
+.PaperCard-expand {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #94a3b8;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.PaperCard:hover .PaperCard-expand {
+    color: #2563eb;
+    background-color: #f1f5f9;
+}
+
+.PaperCard-content {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px dashed #e2e8f0;
+    animation: slideDown 0.3s ease-out forwards;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.PaperCard-citation {
+    font-size: 0.85rem;
+    color: #475569;
+    margin-bottom: 0.75rem;
+    line-height: 1.5;
+    background: #f8fafc;
+    padding: 0.75rem;
+    border-radius: 6px;
+    border-left: 3px solid #cbd5e1;
+}
+
+.PaperCard-citation strong {
+    color: #334155;
+}
+
+.PaperCard-summary {
+    font-size: 0.95rem;
+    color: #334155;
+    line-height: 1.6;
+}
+
+.PaperCard-summary strong {
+    color: #0f172a;
+    display: block;
+    margin-bottom: 0.25rem;
+}

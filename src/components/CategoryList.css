@@ -1,0 +1,139 @@
+.CategoryContainer {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 2.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem;
+    min-height: calc(100vh - 85px);
+}
+
+.CategoryNav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: sticky;
+    top: 110px;
+    max-height: calc(100vh - 130px);
+    overflow-y: auto;
+    padding-right: 0.5rem;
+}
+
+.CategoryNav::-webkit-scrollbar {
+    width: 4px;
+}
+
+.CategoryNav::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+}
+
+.CategoryTab {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.2s;
+    color: #475569;
+}
+
+.CategoryTab:hover {
+    background: #f8fafc;
+    color: #0f172a;
+}
+
+.CategoryTab.active {
+    background: white;
+    border-color: #cbd5e1;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    color: #2563eb;
+}
+
+.CategoryTab-number {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #94a3b8;
+    margin-top: 0.15rem;
+    white-space: nowrap;
+}
+
+.CategoryTab.active .CategoryTab-number {
+    color: #3b82f6;
+}
+
+.CategoryTab-text {
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.CategoryContent {
+    animation: fadeIn 0.4s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.CategoryContent-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #e2e8f0;
+}
+
+.CategoryContent-header h2 {
+    margin: 0;
+    font-size: 1.75rem;
+    color: #0f172a;
+    line-height: 1.3;
+    max-width: 80%;
+}
+
+.CategoryContent-badge {
+    background: #dbeafe;
+    color: #1d4ed8;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+@media (max-width: 900px) {
+    .CategoryContainer {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding: 1.5rem 1rem;
+    }
+
+    .CategoryNav {
+        position: static;
+        flex-direction: row;
+        overflow-x: auto;
+        overflow-y: hidden;
+        padding-bottom: 1rem;
+    }
+
+    .CategoryTab {
+        flex-shrink: 0;
+        width: 250px;
+    }
+}
