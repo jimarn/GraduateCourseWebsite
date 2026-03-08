@@ -28,6 +28,13 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, index }) => {
                     <div className="PaperCard-summary">
                         <strong>Summary:</strong> {paper.summary}
                     </div>
+                    {paper.url && (
+                        <div className="PaperCard-link">
+                            <a href={paper.url} target="_blank" rel="noopener noreferrer" className="PubmedBtn">
+                                🔗 View on PubMed
+                            </a>
+                        </div>
+                    )}
                 </div>
             )}
         </div>
