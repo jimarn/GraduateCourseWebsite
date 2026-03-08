@@ -160,3 +160,54 @@
     transform: translateY(-2px);
     box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.4);
 }
+
+@media (max-width: 768px) {
+    .PaperCard {
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .PaperCard-header {
+        gap: 0.75rem;
+    }
+
+    .PaperCard-index {
+        min-width: 24px;
+        height: 24px;
+        font-size: 0.8rem;
+    }
+
+    .PaperCard-title {
+        font-size: 1.05rem;
+        line-height: 1.4;
+    }
+
+    .PaperCard-expand {
+        width: 24px;
+        height: 24px;
+        font-size: 1.2rem;
+    }
+
+    .PaperCard-content {
+        margin-top: 1rem;
+        padding-top: 1rem;
+    }
+
+    .PaperCard-citation,
+    .PaperCard-summary {
+        font-size: 0.9rem;
+    }
+
+    .PaperCard-citation {
+        padding: 0.75rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .PubmedBtn {
+        padding: 0.6rem 1rem;
+        font-size: 0.85rem;
+        width: 100%;
+        /* Better touch target on mobile */
+        justify-content: center;
+    }
+}

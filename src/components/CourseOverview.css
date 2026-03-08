@@ -64,3 +64,35 @@
     color: var(--color-text-main);
     font-weight: 600;
 }
+
+@media (max-width: 768px) {
+    .OverviewContainer {
+        padding: 1.5rem 0.5rem;
+    }
+
+    .OverviewSection {
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .OverviewSection h2 {
+        font-size: 1.4rem;
+        margin-bottom: 1rem;
+    }
+
+    .OverviewSection p {
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 1rem;
+    }
+
+    .OverviewList li {
+        font-size: 0.95rem;
+        padding-left: 1.25rem;
+        margin-bottom: 1rem;
+    }
+
+    .OverviewList li::before {
+        font-size: 1.4rem;
+    }
+}

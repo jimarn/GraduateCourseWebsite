@@ -67,3 +67,22 @@
         transform: translateY(0);
     }
 }
+
+/* Mobile Responsiveness Extra Tweaks */
+@media (max-width: 768px) {
+    .AppNav {
+        padding: 1rem;
+        gap: 0.5rem;
+        top: 80px;
+        /* Adjust sticky top offset for smaller header */
+    }
+
+    .AppNavButton {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.95rem;
+    }
+
+    .AppMain {
+        padding: 1rem 0.5rem;
+    }
+}
